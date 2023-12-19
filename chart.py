@@ -40,4 +40,3 @@ df['AgeAtArrestTime'].plot(kind='hist', bins=20)
 plt.title('Histogram of Arrest Ages')
 plt.show()
 # calculate the most arrest by zip code and get all the ages in that zip code
-print(df.columns)
